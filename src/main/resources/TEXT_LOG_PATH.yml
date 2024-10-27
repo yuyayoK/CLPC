@@ -1,0 +1,21 @@
+# Text Log Setting
+LOG_FILE_NAME:
+  'yyyy_MM_dd'
+LOG_TIME:
+  'yyyy-MM-dd HH:KK:mm:ss'
+
+# Log Path
+ADMIN_LOG:
+  'plugin_logs/admin/'
+ERROR_LOG:
+  'plugin_logs/error/'
+PLAYER_LOG:
+  'plugin_logs/player/'
+BATCH_LOG:
+  'plugin_logs/batch/'
+WORLD_LOG:
+  'plugin_logs/world/'
+MONEY_LOG:
+  'plugin_logs/money/'
+DATABASE_LOG:
+  'plugin_logs/database/'

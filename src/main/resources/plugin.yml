@@ -1,0 +1,5 @@
+name: Logger
+version: '${project.version}'
+main: com.github.clpc.logger.Logger
+api-version: '1.21'
+authors: [yuyayoK]
